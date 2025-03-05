@@ -10,3 +10,7 @@ The interface seamlessly integrates AI-related visuals, such as data-driven grap
 The user-friendly navigation remains accessible throughout the page with a fixed menu, ensuring that visitors can explore different sections without losing context. The layout is optimized for fast loading, ensuring users enjoy a smooth experience even on slower networks.
 
 This responsive AI landing page is perfect for businesses, startups, or developers looking to showcase AI solutions with a design that speaks innovation, professionalism, and accessibility.
+
+## Screenshots
+<img src="Screenshot 2025-03-05 125518.png" width="500"><img src="Screenshot 2025-03-05 125533.png" width="500">
+<img src="Screenshot 2025-03-05 125549.png" width="500"><img src="Screenshot 2025-03-05 125604.png" width="500">
